@@ -7,7 +7,7 @@
  <p align="center">
 <p align="center">
 <p align="center">
- <a href= "https://listography.com/shrikes"> listo</a>ㅤ <a href= "https://dustyeyes.straw.page"> straw</a>
+ <a href= "https://listography.com/shrikes"> listo</a>ㅤ <a href= "https://dustyeyes.straw.page"> straw</a> ㅤ <a href= "https://rentry.co/wolfslayer"> ph rentry</a> 
 </p>
 <p align="center">
 <img src="https://i.ibb.co/SZS8XqM/armand-banner-prt2.png" width="750" height="660%"/>
