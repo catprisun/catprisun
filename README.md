@@ -7,8 +7,9 @@
  <p align="center">
 <p align="center">
 <p align="center">
- <a href= "https://listography.com/shrikes"> listography</a>ㅤ <a href= "https://dustyeyes.straw.page"> strawpage</a>ㅤmost of my links aren't done.
+ <a href= "https://listography.com/shrikes"> listography</a>ㅤ <a href= "https://dustyeyes.straw.page"> strawpage</a>
 </p>
 <p align="center">
 <img src="https://i.ibb.co/SZS8XqM/armand-banner-prt2.png" width="750" height="660%"/>
 <p align="center">
+most of my links aren't done.
