@@ -3,7 +3,7 @@
 <img src="https://komarev.com/ghpvc/?username=catprisun&style=for-the-badge&color=73151b&base=4581&label=LOCAL+BLOODBAGS" /> <p align="center">
  <p align="center">
   <p align="center">
- ${\textsf{\color{#73151b}i'll　try　to　hide　inside　the　quiet　corners　of　your　mind.}}$
+ ${\textsf{\color{#73151b}you need a witness just to know you're there.}}$
  <p align="center">
 <p align="center">
 <p align="center">
