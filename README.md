@@ -13,4 +13,4 @@
 <img src="https://i.pinimg.com/736x/e8/51/7e/e8517e2c6f2e3c65ce11042779606eec.jpg" width="450" height="360%">
 <p align="center">
 my links aren't done. <br>
-this is also a wip,, ok.
+will rework readme once links r done..bles
