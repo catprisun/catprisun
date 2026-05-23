@@ -3,7 +3,7 @@
 <img src="https://komarev.com/ghpvc/?username=catprisun&style=for-the-badge&color=968b6d&base=4581&label=LOCAL+BLOODBAGS" /> <p align="center">
  <p align="center">
   <p align="center">
- ${\textsf{\color{#c0b8ab}i'm like a spy,  i studied this shit.}}$
+ ${\textsf{\color{#f5e4df}i'm like a spy,  i studied this shit.}}$
  <p align="center">
 <p align="center">
 <p align="center">
