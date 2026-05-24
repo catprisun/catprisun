@@ -13,4 +13,4 @@
 <img src="https://i.pinimg.com/736x/de/e5/f6/dee5f6332d2f8ac536cafc3852d62cdd.jpg" width="450" height="360%">
 <p align="center">
 my links aren't done. <br>
-will rework readme once links r done..bles
+will rework readme once they r ..bles
