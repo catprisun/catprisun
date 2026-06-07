@@ -10,7 +10,7 @@
  <a href= "https://listography.com/shrikes"> listo</a>ㅤ <a href= "https://lycanpyre.atabook.org"> ata</a> ㅤ <a href= "https://rentry.co/wolfslayer"> ph rentry</a> 
 </p>
 <p align="center">
-<img src="https://i.pinimg.com/736x/de/e5/f6/dee5f6332d2f8ac536cafc3852d62cdd.jpg" width="450" height="360%">
+<img src="https://i.pinimg.com/1200x/7c/3f/c2/7c3fc2e2135144ddae9e3e24db4f00a1.jpg" width="450" height="360%">
 <p align="center">
 my links aren't done. <br>
 will rework readme once they r ..bles
