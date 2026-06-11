@@ -9,7 +9,7 @@
  <a href= "https://listography.com/shrikes"> listo</a>ㅤ <a href= "https://lycanpyre.atabook.org"> ata</a> ㅤ <a href= "https://rentry.co/wolfslayer"> ph rentry</a> 
 </p>
 <p align="center">
-<img src="https://i.pinimg.com/736x/ce/82/43/ce82439d2a674c8447def49c3b282839.jpg" width="450" height="360%">
+<img src="https://i.pinimg.com/736x/15/7f/d8/157fd8d0e4ff02dc5a8b7c7c5fc66ac4.jpg" width="450" height="360%">
 <p align="center">
  <img src="https://64.media.tumblr.com/f70c4cb78d31b291ba6e9abc5eb222b6/ac965b23c748d1bb-41/s250x400/477087710df833f3440e6d910240e41982720941.gifv">ㅤ <img src="https://64.media.tumblr.com/7a444c074cd5ed6aa5e972643d72b9a3/ac965b23c748d1bb-68/s250x400/7cfbc80014bfd1569753d464df2ee46901772d24.gifv"> <br>
 my links aren't done. <br>
