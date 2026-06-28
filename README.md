@@ -12,5 +12,4 @@
   </a>
 </p>
 <p align="center">
-my links aren't done. <br>
-will rework readme once they r ..bles 
+my sites aren't done js know i'm very socially avoidant, be patient. thanks. <br>
