@@ -12,6 +12,5 @@
   </a>
 </p>
 <p align="center">
- <img src="https://64.media.tumblr.com/f70c4cb78d31b291ba6e9abc5eb222b6/ac965b23c748d1bb-41/s250x400/477087710df833f3440e6d910240e41982720941.gifv">ㅤ <img src="https://64.media.tumblr.com/7a444c074cd5ed6aa5e972643d72b9a3/ac965b23c748d1bb-68/s250x400/7cfbc80014bfd1569753d464df2ee46901772d24.gifv"> <br>
 my links aren't done. <br>
 will rework readme once they r ..bles 
